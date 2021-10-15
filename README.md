@@ -1,7 +1,7 @@
 ### Hi there! My name is Mikhail Misinin 
 
 ### Tech Stack
-HTML · CSS · JavaScript · ReactJS · NextJS · Git
+HTML · CSS · JavaScript · ReactJS · NextJS
 <!--
 **Misinin/Misinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
